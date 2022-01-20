@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jakbor32
+- 👋 Hi, I’m Jakub B
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning at WSB
 - 💞️ I’m looking to collaborate on ...
