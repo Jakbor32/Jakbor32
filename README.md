@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Jakub B
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning at WSB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ ### 👋 
 
-<!---
-Jakbor32/Jakbor32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ My my name is Jakub Borowy. I'm 21. I study IT in Warsaw, and I'm currently looking for an internship. I like to create web pages and  web applications.
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  ### My skills
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress)](https://skillicons.dev)
+
+ Contact me: borowyjakub32@gmail.com
