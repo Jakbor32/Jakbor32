@@ -1,6 +1,6 @@
  ### 👋 
 
- My name is Jakub Borowy. I'm 22. I study IT in Warsaw, and I'm currently looking for an internship. I like to create web pages and  web applications.
+ My name is Jakub. I'm 23. I study IT in Warsaw.
  
  🌱 I’m currently learning React.js
  
