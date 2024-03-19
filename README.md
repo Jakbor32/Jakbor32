@@ -1,8 +1,8 @@
  ### 👋 
 
- My name is Jakub. I'm 23. I study IT in Warsaw.
- 
- 🌱 I’m currently learning React.js
+My name is Jakub. I'm 23. I graduated with an engineering degree In IT I am currently learning React, TypeScript and power platform especially Power Automate and Power Apps.
+
+
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakbor32)](https://github.com/anuraghazra/github-readme-stats)
  
