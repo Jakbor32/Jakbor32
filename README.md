@@ -1,6 +1,6 @@
  ### 👋 
 
-My name is Jakub. I'm 23. I graduated with an engineering degree In IT I am currently learning React, TypeScript and power platform especially Power Automate and Power Apps.
+My name is Jakub. I'm 24. I graduated with an engineering degree In IT I am currently learning React, TypeScript and power platform especially Power Automate and Power Apps.
 
 
  
