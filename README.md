@@ -25,7 +25,6 @@ I enjoy bridging IT operations with development by creating smart, business-focu
 
 - **Online library** - Canvas app in powerapps simple library based on dataverse.
 - **Firepit** – A fun app for playing games with friends during casual hangouts.
-- **Portfolio Website** – Building a personal portfolio to showcase my work.
 - **Law PowerApp** – A PowerApps app for the legal department's needs.
 
 ---
