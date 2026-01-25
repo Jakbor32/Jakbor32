@@ -1,7 +1,7 @@
 ![Header](https://github.com/user-attachments/assets/bf59a20e-ce0d-4f37-845c-399717b9c3b2)
 
 
-My name is Jakub. I'm 24. I graduated with an engineering degree In IT. I specialize in IT administration, including Microsoft Azure, Entra ID (Azure AD), Exchange Online, Fortigate, NAS, backups, and M365 tenant management.
+My name is Jakub. I'm 25. I graduated with an engineering degree In IT. I specialize in IT administration, including Microsoft Azure, Entra ID (Azure AD), Exchange Online, Fortigate, NAS, backups, and M365 tenant management.
 
 I'm currently focused on the Power Platform, especially Power Apps (Canvas), Power Automate, and Dataverse, where I build low-code solutions for business processes. I'm also expanding my frontend development skills with React creating apps and websites as a hobby.
 
