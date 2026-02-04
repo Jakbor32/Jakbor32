@@ -7,7 +7,7 @@ I'm currently focused on the Power Platform, especially Power Apps (Canvas), Pow
 
 I enjoy bridging IT operations with development by creating smart, business-focused tools. Always learning — especially in cloud, scripting, and modern web technologies.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakbor32&show_icons=true&count_private=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true)
+ ![Anurag's GitHub stats](https://github-readme-stats-rose-one-27.vercel.app//api?username=Jakbor32&show_icons=true&count_private=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true)
  
   ### My skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,tailwind)](https://skillicons.dev)
