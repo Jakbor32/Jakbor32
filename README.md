@@ -1,15 +1,20 @@
-![Header](https://github.com/user-attachments/assets/bf59a20e-ce0d-4f37-845c-399717b9c3b2)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Jakub%20%F0%9F%91%8B&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Power%20Platform%20Developer%20%7C%20Azure%20Integrations&descAlignY=60&descAlign=50" />
+</p>
 
-My name is Jakub. I'm 25. I graduated with an engineering degree In IT. I specialize in IT administration, including Microsoft Azure, Entra ID (Azure AD), Exchange Online, Fortigate, NAS, backups, and M365 tenant management.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+Apps+%7C+Power+Automate+%7C+Dataverse;Azure+Backend+%7C+Business+Apps+%7C+Automation;Building+internal+tools+and+workflow+solutions" />
+</p>
 
-I'm currently focused on the Power Platform, especially Power Apps (Canvas), Power Automate, and Dataverse, where I build low-code solutions for business processes. I'm also expanding my frontend development skills with React creating apps and websites as a hobby.
+I'm a **Power Platform Developer** focused on building internal business applications, workflow automations, and Azure-based integrations.
 
-I enjoy bridging IT operations with development by creating smart, business-focused tools. Always learning — especially in cloud, scripting, and modern web technologies.
+I work mainly with **Power Apps**, **Power Automate**, **Dataverse**, **Azure**, and **Microsoft 365**.  
+My IT operations background helps me build practical tools for real business and infrastructure needs.
 
  ![Anurag's GitHub stats](https://github-readme-stats-rose-one-27.vercel.app//api?username=Jakbor32&show_icons=true&count_private=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true)
  
-  ### My skills
+  ### Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,tailwind)](https://skillicons.dev)
   <img src="https://github.com/user-attachments/assets/77646a6a-4ccf-464e-b80c-b4d7e9f738fe" height="48" alt="admin_365" />
   <img src="https://github.com/user-attachments/assets/31dc3375-1239-49c0-a588-7f05ad7c2d30" height="48" alt="entra" />
@@ -21,10 +26,10 @@ I enjoy bridging IT operations with development by creating smart, business-focu
   <img src="https://github.com/user-attachments/assets/0b6b404f-ec6b-4f73-835c-99612a37b3b3" height="48" alt="fortigate_fortinet" />
   <img src="https://github.com/user-attachments/assets/522b111c-fcc6-4f6a-8014-bf90f7183e9a" height="48" alt="teams_admin" />
 
-## 🚧 Current and Future Projects
+### Current & Planned Projects
 
-- **Online library** - Canvas app in powerapps simple library based on dataverse.
-- **Firepit** – A fun app for playing games with friends during casual hangouts.
+- **SPFx Organization Chart** – SharePoint Framework app for visualizing organizational structure.
+- **IT Security / CVE Tracker** – Tool concept for tracking vulnerabilities, assets, and remediation status.
 - **Law PowerApp** – A PowerApps app for the legal department's needs.
 
 ---
