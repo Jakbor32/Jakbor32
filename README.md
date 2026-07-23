@@ -12,7 +12,7 @@ I'm a **Power Platform Developer** focused on building internal business applica
 I work mainly with **Power Apps**, **Power Automate**, **Dataverse**, **Azure**, and **Microsoft 365**.  
 My IT operations background helps me build practical tools for real business and infrastructure needs.
 
- ![Anurag's GitHub stats](https://github-readme-stats-rose-one-27.vercel.app//api?username=Jakbor32&show_icons=true&count_private=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jakbor32&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Jakbor32&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
  
   ### Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,tailwind)](https://skillicons.dev)
