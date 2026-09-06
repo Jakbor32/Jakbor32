@@ -28,9 +28,8 @@ My IT operations background helps me build practical tools for real business and
 
 ### Current & Planned Projects
 
-- **SPFx Organization Chart** – SharePoint Framework app for visualizing organizational structure.
-- **IT Security / CVE Tracker** – Tool concept for tracking vulnerabilities, assets, and remediation status.
-- **Law PowerApp** – A PowerApps app for the legal department's needs.
+- **Homelab / Self-hosted Infrastructure** – Running and hardening a personal Linux homelab: monitoring, automation, and a security-first self-hosted temporary file-sharing service currently in development.
+- **AI-Powered Search Tooling** – Exploring AI/ML models for practical use cases, currently building a semantic search tool for photo and media libraries.
 
 ---
  **Contact me: borowyjakub32@gmail.com**
