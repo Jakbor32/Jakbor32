@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jakub Borowy&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 29, Total Commits  : 2998, Total PRs: 290, Total Issues: 271, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 29, Total Commits  : 3032, Total PRs: 301, Total Issues: 277, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.43899059679173;
+        stroke-dashoffset: 93.15561619403299;
       }
     }
   
@@ -173,7 +173,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >290</text>
+      >301</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >271</text>
+      >277</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
